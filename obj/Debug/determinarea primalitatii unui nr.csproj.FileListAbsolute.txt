@@ -1,0 +1,11 @@
+E:\proiect buzoianu c#\determinarea primalitatii unui nr\obj\Debug\determinarea primalitatii unui nr.csproj.AssemblyReference.cache
+E:\proiect buzoianu c#\determinarea primalitatii unui nr\obj\Debug\determinarea primalitatii unui nr.csproj.SuggestedBindingRedirects.cache
+E:\proiect buzoianu c#\determinarea primalitatii unui nr\obj\Debug\determinarea_primalitatii_unui_nr.Form1.resources
+E:\proiect buzoianu c#\determinarea primalitatii unui nr\obj\Debug\determinarea_primalitatii_unui_nr.Properties.Resources.resources
+E:\proiect buzoianu c#\determinarea primalitatii unui nr\obj\Debug\determinarea primalitatii unui nr.csproj.GenerateResource.cache
+E:\proiect buzoianu c#\determinarea primalitatii unui nr\obj\Debug\determinarea primalitatii unui nr.csproj.CoreCompileInputs.cache
+E:\proiect buzoianu c#\determinarea primalitatii unui nr\bin\Debug\determinarea primalitatii unui nr.exe.config
+E:\proiect buzoianu c#\determinarea primalitatii unui nr\bin\Debug\determinarea primalitatii unui nr.exe
+E:\proiect buzoianu c#\determinarea primalitatii unui nr\bin\Debug\determinarea primalitatii unui nr.pdb
+E:\proiect buzoianu c#\determinarea primalitatii unui nr\obj\Debug\determinarea primalitatii unui nr.exe
+E:\proiect buzoianu c#\determinarea primalitatii unui nr\obj\Debug\determinarea primalitatii unui nr.pdb
